@@ -19,5 +19,5 @@
 
 二， 打包
 
-打包请参考Customtkinter官方文档[官网](https://customtkinter.tomschimansky.com/documentation/packaging)
+打包请参考[Customtkinter官方文档](https://customtkinter.tomschimansky.com/documentation/packaging)
 或者点击获取本人打包的可直接运行的exe文件

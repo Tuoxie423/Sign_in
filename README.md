@@ -25,9 +25,9 @@
 二， 打包
 
 打包请参考[Customtkinter官方文档](https://customtkinter.tomschimansky.com/documentation/packaging)，
-或者[点击获取](https://pan.baidu.com/s/1PLOGLHEvePUkPVwjAii66w?pwd=tx07)本人打包的可直接运行的exe文件。 
+或者[点击获取](https://pan.baidu.com/s/15Y_7Go2N7JN7ogoIo4W9Yw?pwd=tx07 ))本人打包的可直接运行的exe文件。 
 
-链接：https://pan.baidu.com/s/1PLOGLHEvePUkPVwjAii66w?pwd=tx07 提取码: tx07
+链接：https://pan.baidu.com/s/15Y_7Go2N7JN7ogoIo4W9Yw?pwd=tx07 提取码: tx07
 
 三，其他
 
